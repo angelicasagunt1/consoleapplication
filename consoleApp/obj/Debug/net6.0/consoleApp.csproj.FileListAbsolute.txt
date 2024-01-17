@@ -1,0 +1,15 @@
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/bin/Debug/net6.0/consoleApp
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/bin/Debug/net6.0/consoleApp.deps.json
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/bin/Debug/net6.0/consoleApp.runtimeconfig.json
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/bin/Debug/net6.0/consoleApp.dll
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/bin/Debug/net6.0/consoleApp.pdb
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/consoleApp.csproj.AssemblyReference.cache
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/consoleApp.AssemblyInfoInputs.cache
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/consoleApp.AssemblyInfo.cs
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/consoleApp.csproj.CoreCompileInputs.cache
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/consoleApp.dll
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/refint/consoleApp.dll
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/consoleApp.pdb
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/consoleApp.genruntimeconfig.cache
+/home/angelica/Documentos/angelica/nobel consoleapp/consoleApp/obj/Debug/net6.0/ref/consoleApp.dll
